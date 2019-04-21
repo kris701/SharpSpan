@@ -13,45 +13,4 @@ Only takes as little as 3000 ticks, that is 10 times faster then what LINQ could
 
 I must make it clear that this is not saying that LINQ is bad, LINQ is just very universal, and that means that it many times sacrifices performance over stability and compatibility.
 
-## SharpSpan Methods
-
-### SharpSpan.Lists
-
-**These are all extensions to the normal List<T> class, you only need to add the SharpSpan.Lists namespace.**
-  
-Finds the lowest number in a list:
-
-        int FindLowestNumberFast()
-
-Find the index of the lowest number in a list:
-
-        int FindLowestNumberIndexFast()
-        
-Find the highest number in a list:
-
-        int FindHighestNumberFast()
-         
-Find the index of the highest number in a list:
-
-        int FindHighestNumberIndexFast()
-
-Makes a list from a list, with the given method:
-
-        List<bool> MapNumbers(MapMode mapmode, int Value)
-
-Checks if all elements in a list returns true with the given method:
-
-        bool MapNumbersAll(MapMode mapmode, int Value)
-
-The different methods that can be used for the above two functions:
-
-        IsOdd
-        IsEven
-        IsGreaterThan
-        IsGreaterThanOrEqual
-        IsLessThan
-        IsLessThanOrEqual
-        IsEqual
-        IsNotEqual
-
-***
+Check the [wiki](https://github.com/kris701/SharpSpan/wiki) for more info!
