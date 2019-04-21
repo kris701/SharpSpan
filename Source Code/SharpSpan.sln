@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpSpan", "SharpSpan\SharpSpan.csproj", "{12BDD05E-59B7-4962-9C4A-1F2BA703AC3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12BDD05E-59B7-4962-9C4A-1F2BA703AC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BDD05E-59B7-4962-9C4A-1F2BA703AC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BDD05E-59B7-4962-9C4A-1F2BA703AC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BDD05E-59B7-4962-9C4A-1F2BA703AC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F0FFEF3-236C-460A-A753-747934DA363A}
+	EndGlobalSection
+EndGlobal
