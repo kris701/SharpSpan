@@ -1,3 +1,5 @@
+# Discontinued!
+
 # SharpSpan
 
 SharpSpan aims to increase the performance of severeal different c# fields. This mainly being fields where methods such as LINQ is used, but can be faster. Examples of such could be using LINQ to make a list to map out the elements of another list is odd or even. The performance increase can be seen with that example:
